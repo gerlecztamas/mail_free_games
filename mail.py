@@ -31,4 +31,4 @@ def convert_games_to_mail_body(games: list[Giveaway]) -> str:
     for game in games:
         lines.append(f"{game.title}\n{game.open_giveaway_url}\nEnds at: {game.end_date}")
 
-    return "\n".join(lines)
+    return "\n\n".join(lines)
