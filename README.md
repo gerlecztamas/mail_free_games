@@ -4,7 +4,7 @@ A python script that uses GamerPower API to collect the current free games from 
 
 ---
 
-## Environemnt variables
+## Environment variables
 
 | Variable Name        | Description                                                  |
 | -------------------- | ------------------------------------------------------------ |
